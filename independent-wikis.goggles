@@ -4,6 +4,7 @@
 ! author: tutacat
 ! avatar: #8877dd
 $downrank=4,site=fandom.com
+$downrank=4,site=*.fandom.com
 $downrank=4,site=wikia.com
 $downrank=3,site=wikipedia.org
 
